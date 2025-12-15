@@ -1,0 +1,7 @@
+:root {
+  --font-sans: "Inter", "Pretendard Variable", sans-serif;
+}
+
+html {
+  font-family: var(--font-sans, "Inter"), sans-serif;
+}
