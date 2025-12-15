@@ -32,3 +32,5 @@
 6. GitHub에서 풀 리퀘스트를 생성합니다.
 
 기여해 주셔서 감사합니다!
+# 디스코드
+https://discord.gg/eaQuRYrSty
